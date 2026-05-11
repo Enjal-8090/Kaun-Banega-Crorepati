@@ -2,7 +2,7 @@
 import random
 from outro import outro
 
-question_1="Which planet is known as the Red Planet?\nA. Earth\tB. Mars\nC. Jupiter\tD. Saturn  "
+question_1="Which planet is known as the Ring Planet?\nA. Earth\tB. Mars\nC. Jupiter\tD. Saturn  "
 question_2="Which of the following instruments is used in differential leveling?\nA. Theodolite\tB. Dumpy Level\nC. Compass\tD. Planimeter  "
 question_3="The primary function of white blood cells is to:\nA. Transport oxygen\tB. Fight infections\nC. Clot blood\tD. Carry nutrients  "
 question_4="What is the capital of France?\nA. Berlin\tB. Madrid\nC. Paris\tD. Rome  "
@@ -25,7 +25,7 @@ question_20="Which satellite system is developed by the China?\nA. GPS\tB. GLONA
 cash_prizes=[1000,2000,5000,10000,20000,40000,80000,160000,320000,640000,1250000,2500000,5000000,10000000,70000000]
 
 
-questions={question_1:'B',question_2:'B',question_3:'B',question_4:'C',question_5:'B',question_6:'A',question_7:'A',question_8:'A',question_9:'A',question_10:'C',question_11:'C',question_12:'D',question_13:'A',question_14:'B',question_15:'C',question_16:'C',question_17:'C',question_18:'A',question_19:'B',question_20:'D'}
+questions={question_1:'D',question_2:'B',question_3:'B',question_4:'C',question_5:'B',question_6:'A',question_7:'A',question_8:'A',question_9:'A',question_10:'C',question_11:'C',question_12:'D',question_13:'A',question_14:'B',question_15:'C',question_16:'C',question_17:'C',question_18:'A',question_19:'B',question_20:'D'}
 question_items=list(questions.items())
 random.shuffle(question_items)
 suff_data=dict(question_items)
