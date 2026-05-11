@@ -57,3 +57,5 @@ elif 10<=k<15:
     print("You won ₹6,40,000!")
 else:
     print("Congratulations! You are the Kaun Banega Crorepati winner and won ₹7,00,00,000!")
+
+print ("Thank you for playing KBC!!!!")
