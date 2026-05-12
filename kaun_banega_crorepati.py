@@ -59,3 +59,5 @@ else:
     print("Congratulations! You are the Kaun Banega Crorepati winner and won ₹7,00,00,000!")
 
 print ("Thank you for playing KBC!!!!")
+print("Follow us on Instagram @kbc_official for more updates and exciting content!")
+print("Don't forget to subscribe to our YouTube channel for behind-the-scenes footage and exclusive interviews with the host and contestants!")
